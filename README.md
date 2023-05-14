@@ -25,5 +25,6 @@
 ```bash
 pipenv install
 pipenv shell
+export PYTHONPATH=$PWD
 make run-app
 ```
