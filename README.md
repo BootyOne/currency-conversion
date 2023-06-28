@@ -1,6 +1,6 @@
 # currency-conversion
 
-## Тестовое задание
+## Задание
 Необходимо разработать back-end, реализующий следующее REST API:
 
 ### GET /convert?from=RUR&to=USD&amount=42
